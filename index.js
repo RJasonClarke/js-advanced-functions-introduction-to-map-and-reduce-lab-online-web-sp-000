@@ -1,4 +1,5 @@
 // Your code here
-function mapToNegativize(){
+function mapToNegativize(sourceArray){
+  let arr = [];
 
 }
