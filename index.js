@@ -1,4 +1,4 @@
 // Your code here
-functioin mapToNegativize(){
+function mapToNegativize(){
 
 }
